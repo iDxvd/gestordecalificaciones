@@ -88,5 +88,5 @@ También tuve que aprender un poco sobre las validaciones, como evitar que se pu
 
 ### Imagenes
 <img width="937" height="588" alt="image" src="https://github.com/user-attachments/assets/64cc4be5-6813-45df-a3b9-35c9ed31c3b6" />
-<img width="937" height="588" alt="image" src="https://github.com/user-attachments/assets/81769812-4ef8-4aa8-98f1-94be265777dc" />
+<img width="1027" height="469" alt="image" src="https://github.com/user-attachments/assets/1b56d1ae-a34d-49fb-aca3-1097c9703662" />
 
