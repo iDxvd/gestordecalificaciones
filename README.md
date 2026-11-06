@@ -85,3 +85,8 @@ Como todavía estoy empezando con C#, una de las cosas que más me costó fue en
 Otra cosa que me costó fue almacenar los estudiantes en una variable. Al principio estaba haciendo una variable por cada estudiante, pero luego busqué y vi que podía utilizar una `List<Estudiante>` para guardar todos los estudiantes. Al final lo hice así porque es mucho más fácil y puedo agregar todos los estudiantes que quiera sin tener que crear una variable nueva para cada uno.
 
 También tuve que aprender un poco sobre las validaciones, como evitar que se pueda poner una calificación mayor de 100 o que el programa se cierre cuando se introduce algo incorrecto. 
+
+### Imagenes
+<img width="937" height="588" alt="image" src="https://github.com/user-attachments/assets/64cc4be5-6813-45df-a3b9-35c9ed31c3b6" />
+<img width="937" height="588" alt="image" src="https://github.com/user-attachments/assets/81769812-4ef8-4aa8-98f1-94be265777dc" />
+
